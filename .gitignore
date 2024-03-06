@@ -1,0 +1,4 @@
+pytest.ini
+*.pyc
+.DS_Store
+
